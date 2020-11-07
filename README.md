@@ -10,6 +10,6 @@ I'm a software QA Analyst, student of Java and Web development technologies.
 
 ![mlpdleal's github stats](https://github-readme-stats.vercel.app/api?username=mlpdleal&count_private=true&show_icons=true&theme=onedark&refresh=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpdleal&layout=compact&hide=css,html&refresh=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpdleal&layout=compact&hide=css,html)
 
 
