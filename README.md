@@ -8,10 +8,7 @@ I'm a software QA Analyst, student of Java and Web development technologies.
 
 ⚡️ More about my coding life
 
-![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=mlpdleal&refresh=true)
-
 ![mlpdleal's github stats](https://github-readme-stats.vercel.app/api?username=mlpdleal&count_private=true&show_icons=true&theme=onedark)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpdleal&layout=compact&hide=css,html)
 
