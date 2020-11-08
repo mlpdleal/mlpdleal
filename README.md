@@ -3,7 +3,7 @@
 I'm a software QA Analyst, student of Java and Web development technologies.
 
 - 🔭 I’m currently working on SEBRAE as a software QA Analyst;
-- 🌱 I’m currently learning Web development with HTML, CSS, Javascript, Java (Spring technologies), test automation with Selenium Webdriver(Java) and Cypress(Javascript);
+- 🌱 I’m currently learning Web development with HTML, CSS, Javascript, Java (Spring technologies), Test Automation with Selenium Webdriver(Java) and Cypress(Javascript);
 - 📫 How to reach me: https://www.linkedin.com/in/manoel-leal-087182a5/
 
 
