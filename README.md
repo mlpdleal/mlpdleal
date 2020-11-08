@@ -7,7 +7,7 @@ I'm a software QA Analyst, student of Java and Web development technologies.
 - 📫 How to reach me: https://www.linkedin.com/in/manoel-leal-087182a5/
 
 ![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=mlpdleal&show_icons=true)
-![mlpdleal wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mlpdleal)]
+[![mlpdleal wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mlpdleal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
