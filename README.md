@@ -2,7 +2,7 @@
 
 I'm a software QA Analyst, student of Java and Web development technologies.
 
-- 🔭 I’m currently working on SEBRAE as a software QA Analyst;
+- 🔭 I’m currently working on DBC Company as a software QA Analyst;
 - 🌱 Often studying content about test automation;
 - 🌱 I’m currently learning Web development with HTML, CSS, Javascript, Java (Spring technologies);
 - 📫 How to reach me: https://www.linkedin.com/in/manoel-leal-087182a5/
