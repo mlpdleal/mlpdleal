@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DBC Company as a software QA Analyst;
+- 🏢 I’m currently working on DBC Company as a software QA Analyst;
 - 📚 I’m currently studying test automation Selenium Webdriver(Java) And Cypress(Javascript) technologies;
 - 🌱 I'm interested in all software tests contents like agile test, test automation, performance Test, api Test etc;
 - 📁 Often I will commit content about my studies, manuals and frameworks for future reference materials, I hope it will serve as a reference for anyone who wants to use them.
