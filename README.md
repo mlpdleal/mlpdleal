@@ -9,9 +9,9 @@ I'm a software QA Analyst, student of Java and Web development technologies.
 
 ### &#x1f4c8; GitHub Stats
 
-![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=mlpdleal&show_icons=true)
+![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=mlpdleal&show_icons=true&theme=dark)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpdleal&layout=compact&hide=plpgsql)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mlpdleal&layout=compact&hide=plpgsql&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
