@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏢 I’m currently working on DBC Company as a software QA Analyst;
-- 📚 Working with test automation tools like: Selenium Webdriver (Java), Cypress (Javascript) and Robot Framework (Python);
+- 📚 Working with test automation tools like: Selenium Webdriver (Java), Appium (Java) and Cypress (Javascript);
 - 🌱 I’m currently study Robot Framework and Python;
 - 🌱 I'm interested in contents like agile test, test automation, performance test, API test, Devops, CI/CD, Linux, Docker, test environment etc;
 - 📁 Often I will commit content about my studies, manuals and frameworks for future reference materials, I hope it will serve as a reference for anyone who wants to use them.
