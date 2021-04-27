@@ -2,6 +2,7 @@
 
 - 🏢 I’m currently working on DBC Company as a software QA Analyst;
 - 📚 Working with test automation tools like: Selenium Webdriver (Java), Cypress (Javascript) and Robot Framework (Python);
+- 🌱 I’m currently study Robot Framework and Python;
 - 🌱 I'm interested in contents like agile test, test automation, performance test, API test, Devops, CI/CD, Linux, Docker, test environment etc;
 - 📁 Often I will commit content about my studies, manuals and frameworks for future reference materials, I hope it will serve as a reference for anyone who wants to use them.
 - 📫 How to reach me: https://www.linkedin.com/in/manoel-leal-087182a5/
