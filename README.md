@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 I’m currently working on Prime Control as a Software Test Automation Analyst;
+- 🏢 I’m currently working on Prime Control as Software Test Automation Analyst;
 - 📚 Working with test automation tools like: Selenium Webdriver (Java), Appium (Java) and Cypress (Javascript);
 - 🌱 I’m currently learning Robot Framework and Python;
 - 🌱 I'm interested in contents like agile test, test automation, performance test, API test, Devops, CI/CD, Linux, Docker, test environment etc;
