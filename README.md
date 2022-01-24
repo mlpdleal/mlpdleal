@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 I’m currently working at Pulse as Senior Software Quality Analyst;
+- 🏢 I’m currently working at Pulse as Senior Software Quality Assurance Analyst;
 - 📚 Working with test automation tools like: Selenium Webdriver (Java), Appium (Java), Cypress (Javascript), Cucumber and Robot Framework(Python);
 - 🌱 I'm interested in contents like agile test, test automation, performance test, API test, BDD, Cucumber, Devops, CI/CD, Linux, Docker, test environment etc;
 - 📁 Often I will commit content about my studies, manuals and frameworks for future reference materials, I hope it will serve as a reference for anyone who wants to use them.
