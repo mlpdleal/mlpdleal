@@ -6,7 +6,7 @@
 
 ### &#x1f4c8; GitHub Stats
 
-![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=mlpdleal&show_icons=true&)
+![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=mlpdleal&show_icons=true&theme=dark)
 
 
 
