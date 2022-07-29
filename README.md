@@ -5,6 +5,8 @@
 - 🌱 Day by day working on personal projects and improve my software development skills;
 - 📱 Technologies:
 
+<img src="https://github.com/mlpdleal/mlpdleal/edit/main/README.md" data-canonical-src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" width="200" height="400" />
+
 ![iOS](https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png=1280x720)
 
 ![Swift](https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png=1280x720)
