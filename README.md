@@ -3,7 +3,7 @@
 - 🏢 I’m currently working at Pulse as Senior Software Quality Assurance Analyst;
 - 📱 I'm a enthusiast about iOS development and the Apple ecosystem;
 - 🌱 Day by day working on personal projects and improve my software development skills;
-- 📚 Technologies that I am studing: iOS development, Xcode, Swift Language, SwiftUI, Core Data, working with API Requests, MVVM design Pattern, Combine framework, git and github.
+- 📚 Technologies that I am studing: iOS development, Xcode, Swift Language, SwiftUI, Core Data, API Requests, MVVM design Pattern, Combine framework, git and github.
 
 ### Technologies: 
 
